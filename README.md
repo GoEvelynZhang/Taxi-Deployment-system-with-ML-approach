@@ -1,5 +1,6 @@
 # Taxi Deployment System  — A Strategic Model from Machine Learning
-
+### refer to pdf for compelete report with graph
+### refer to https://docs.google.com/presentation/d/17t7oHdasg12Lm5b80atfCwogfBCNZg2DNml91Gxb5eI/edit?usp=sharing to see presentation and model demonstration
 ### Yuxin Zhang , Xiyan Cai and Yixiang Xiao
 
  New York University 
